@@ -1,0 +1,8 @@
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\KucukHarfeCevir\bin\Debug\KucukHarfeCevir.dll
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\KucukHarfeCevir\bin\Debug\KucukHarfeCevir.pdb
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\KucukHarfeCevir\bin\Debug\SDK.dll
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\KucukHarfeCevir\bin\Debug\SDK.pdb
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\KucukHarfeCevir\obj\Debug\KucukHarfeCevir.csproj.CoreCompileInputs.cache
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\KucukHarfeCevir\obj\Debug\KucukHarfeCevir.csproj.CopyComplete
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\KucukHarfeCevir\obj\Debug\KucukHarfeCevir.dll
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\KucukHarfeCevir\obj\Debug\KucukHarfeCevir.pdb

@@ -1,0 +1,9 @@
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\DikeyYaz\bin\Debug\DikeyYaz.dll
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\DikeyYaz\bin\Debug\DikeyYaz.pdb
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\DikeyYaz\bin\Debug\SDK.dll
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\DikeyYaz\bin\Debug\SDK.pdb
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\DikeyYaz\obj\Debug\BuyukHarfeCevir.csproj.AssemblyReference.cache
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\DikeyYaz\obj\Debug\BuyukHarfeCevir.csproj.CoreCompileInputs.cache
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\DikeyYaz\obj\Debug\BuyukHarfeCevir.csproj.CopyComplete
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\DikeyYaz\obj\Debug\DikeyYaz.dll
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\DikeyYaz\obj\Debug\DikeyYaz.pdb

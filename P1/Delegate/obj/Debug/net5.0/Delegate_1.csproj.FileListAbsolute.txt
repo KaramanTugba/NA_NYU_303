@@ -1,0 +1,16 @@
+C:\Users\303TUGBA_SABAH\source\repos\P1\Delegate\bin\Debug\net5.0\Delegate_1.exe
+C:\Users\303TUGBA_SABAH\source\repos\P1\Delegate\bin\Debug\net5.0\Delegate_1.deps.json
+C:\Users\303TUGBA_SABAH\source\repos\P1\Delegate\bin\Debug\net5.0\Delegate_1.runtimeconfig.json
+C:\Users\303TUGBA_SABAH\source\repos\P1\Delegate\bin\Debug\net5.0\Delegate_1.runtimeconfig.dev.json
+C:\Users\303TUGBA_SABAH\source\repos\P1\Delegate\bin\Debug\net5.0\Delegate_1.dll
+C:\Users\303TUGBA_SABAH\source\repos\P1\Delegate\bin\Debug\net5.0\ref\Delegate_1.dll
+C:\Users\303TUGBA_SABAH\source\repos\P1\Delegate\bin\Debug\net5.0\Delegate_1.pdb
+C:\Users\303TUGBA_SABAH\source\repos\P1\Delegate\obj\Debug\net5.0\Delegate_1.csproj.AssemblyReference.cache
+C:\Users\303TUGBA_SABAH\source\repos\P1\Delegate\obj\Debug\net5.0\Delegate_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303TUGBA_SABAH\source\repos\P1\Delegate\obj\Debug\net5.0\Delegate_1.AssemblyInfoInputs.cache
+C:\Users\303TUGBA_SABAH\source\repos\P1\Delegate\obj\Debug\net5.0\Delegate_1.AssemblyInfo.cs
+C:\Users\303TUGBA_SABAH\source\repos\P1\Delegate\obj\Debug\net5.0\Delegate_1.csproj.CoreCompileInputs.cache
+C:\Users\303TUGBA_SABAH\source\repos\P1\Delegate\obj\Debug\net5.0\Delegate_1.dll
+C:\Users\303TUGBA_SABAH\source\repos\P1\Delegate\obj\Debug\net5.0\ref\Delegate_1.dll
+C:\Users\303TUGBA_SABAH\source\repos\P1\Delegate\obj\Debug\net5.0\Delegate_1.pdb
+C:\Users\303TUGBA_SABAH\source\repos\P1\Delegate\obj\Debug\net5.0\Delegate_1.genruntimeconfig.cache

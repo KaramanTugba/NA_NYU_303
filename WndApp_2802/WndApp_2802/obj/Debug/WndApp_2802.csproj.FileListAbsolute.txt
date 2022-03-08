@@ -1,0 +1,10 @@
+C:\Users\303TUGBA_SABAH\source\repos\WndApp_2802\WndApp_2802\bin\Debug\WndApp_2802.exe.config
+C:\Users\303TUGBA_SABAH\source\repos\WndApp_2802\WndApp_2802\bin\Debug\WndApp_2802.exe
+C:\Users\303TUGBA_SABAH\source\repos\WndApp_2802\WndApp_2802\bin\Debug\WndApp_2802.pdb
+C:\Users\303TUGBA_SABAH\source\repos\WndApp_2802\WndApp_2802\obj\Debug\WndApp_2802.csproj.AssemblyReference.cache
+C:\Users\303TUGBA_SABAH\source\repos\WndApp_2802\WndApp_2802\obj\Debug\WndApp_2802.Form1.resources
+C:\Users\303TUGBA_SABAH\source\repos\WndApp_2802\WndApp_2802\obj\Debug\WndApp_2802.Properties.Resources.resources
+C:\Users\303TUGBA_SABAH\source\repos\WndApp_2802\WndApp_2802\obj\Debug\WndApp_2802.csproj.GenerateResource.cache
+C:\Users\303TUGBA_SABAH\source\repos\WndApp_2802\WndApp_2802\obj\Debug\WndApp_2802.csproj.CoreCompileInputs.cache
+C:\Users\303TUGBA_SABAH\source\repos\WndApp_2802\WndApp_2802\obj\Debug\WndApp_2802.exe
+C:\Users\303TUGBA_SABAH\source\repos\WndApp_2802\WndApp_2802\obj\Debug\WndApp_2802.pdb

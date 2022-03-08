@@ -1,0 +1,5 @@
+C:\Users\303TUGBA_SABAH\source\repos\Katman\Model\bin\Debug\Model.dll
+C:\Users\303TUGBA_SABAH\source\repos\Katman\Model\bin\Debug\Model.pdb
+C:\Users\303TUGBA_SABAH\source\repos\Katman\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\303TUGBA_SABAH\source\repos\Katman\Model\obj\Debug\Model.dll
+C:\Users\303TUGBA_SABAH\source\repos\Katman\Model\obj\Debug\Model.pdb

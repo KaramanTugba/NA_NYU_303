@@ -1,0 +1,10 @@
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\DllMath\obj\Debug\DllMath.csproj.AssemblyReference.cache
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\DllMath\obj\Debug\DllMath.csproj.CoreCompileInputs.cache
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\DllMath\bin\Debug\DllMath.exe.config
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\DllMath\bin\Debug\DllMath.exe
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\DllMath\bin\Debug\DllMath.pdb
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\DllMath\bin\Debug\Matematik.dll
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\DllMath\bin\Debug\Matematik.pdb
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\DllMath\obj\Debug\DllMath.csproj.CopyComplete
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\DllMath\obj\Debug\DllMath.exe
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\DllMath\obj\Debug\DllMath.pdb
