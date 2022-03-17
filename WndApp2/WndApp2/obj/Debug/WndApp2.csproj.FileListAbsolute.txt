@@ -1,0 +1,10 @@
+C:\Users\303TUGBA_SABAH\Downloads\AdoNet-master\AdoNet-master\WndApp2\WndApp2\bin\Debug\WndApp2.exe.config
+C:\Users\303TUGBA_SABAH\Downloads\AdoNet-master\AdoNet-master\WndApp2\WndApp2\bin\Debug\WndApp2.exe
+C:\Users\303TUGBA_SABAH\Downloads\AdoNet-master\AdoNet-master\WndApp2\WndApp2\bin\Debug\WndApp2.pdb
+C:\Users\303TUGBA_SABAH\Downloads\AdoNet-master\AdoNet-master\WndApp2\WndApp2\obj\Debug\WndApp2.csproj.AssemblyReference.cache
+C:\Users\303TUGBA_SABAH\Downloads\AdoNet-master\AdoNet-master\WndApp2\WndApp2\obj\Debug\WndApp2.Form1.resources
+C:\Users\303TUGBA_SABAH\Downloads\AdoNet-master\AdoNet-master\WndApp2\WndApp2\obj\Debug\WndApp2.Properties.Resources.resources
+C:\Users\303TUGBA_SABAH\Downloads\AdoNet-master\AdoNet-master\WndApp2\WndApp2\obj\Debug\WndApp2.csproj.GenerateResource.cache
+C:\Users\303TUGBA_SABAH\Downloads\AdoNet-master\AdoNet-master\WndApp2\WndApp2\obj\Debug\WndApp2.csproj.CoreCompileInputs.cache
+C:\Users\303TUGBA_SABAH\Downloads\AdoNet-master\AdoNet-master\WndApp2\WndApp2\obj\Debug\WndApp2.exe
+C:\Users\303TUGBA_SABAH\Downloads\AdoNet-master\AdoNet-master\WndApp2\WndApp2\obj\Debug\WndApp2.pdb

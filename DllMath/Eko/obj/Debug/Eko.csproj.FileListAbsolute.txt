@@ -1,0 +1,9 @@
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\Eko\bin\Debug\Eko.dll
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\Eko\bin\Debug\Eko.pdb
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\Eko\bin\Debug\SDK.dll
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\Eko\bin\Debug\SDK.pdb
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\Eko\obj\Debug\Eko.csproj.AssemblyReference.cache
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\Eko\obj\Debug\Eko.csproj.CoreCompileInputs.cache
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\Eko\obj\Debug\Eko.csproj.CopyComplete
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\Eko\obj\Debug\Eko.dll
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\Eko\obj\Debug\Eko.pdb

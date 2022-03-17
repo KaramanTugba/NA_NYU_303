@@ -1,0 +1,15 @@
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\GenericDAL\bin\Debug\GenericDAL.exe.config
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\GenericDAL\bin\Debug\GenericDAL.exe
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\GenericDAL\bin\Debug\GenericDAL.pdb
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\GenericDAL\bin\Debug\EntityFramework.dll
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\GenericDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\GenericDAL\bin\Debug\EntityFramework.xml
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\GenericDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\GenericDAL\obj\Debug\GenericDAL.csproj.AssemblyReference.cache
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\GenericDAL\obj\Debug\GenericDAL.Form1.resources
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\GenericDAL\obj\Debug\GenericDAL.Properties.Resources.resources
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\GenericDAL\obj\Debug\GenericDAL.csproj.GenerateResource.cache
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\GenericDAL\obj\Debug\GenericDAL.csproj.CoreCompileInputs.cache
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\GenericDAL\obj\Debug\GenericDAL.csproj.CopyComplete
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\GenericDAL\obj\Debug\GenericDAL.exe
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\GenericDAL\obj\Debug\GenericDAL.pdb

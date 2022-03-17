@@ -1,0 +1,16 @@
+C:\Users\303TUGBA_SABAH\source\repos\P1\P1\bin\Debug\net5.0\MarketP.exe
+C:\Users\303TUGBA_SABAH\source\repos\P1\P1\bin\Debug\net5.0\MarketP.deps.json
+C:\Users\303TUGBA_SABAH\source\repos\P1\P1\bin\Debug\net5.0\MarketP.runtimeconfig.json
+C:\Users\303TUGBA_SABAH\source\repos\P1\P1\bin\Debug\net5.0\MarketP.runtimeconfig.dev.json
+C:\Users\303TUGBA_SABAH\source\repos\P1\P1\bin\Debug\net5.0\MarketP.dll
+C:\Users\303TUGBA_SABAH\source\repos\P1\P1\bin\Debug\net5.0\ref\MarketP.dll
+C:\Users\303TUGBA_SABAH\source\repos\P1\P1\bin\Debug\net5.0\MarketP.pdb
+C:\Users\303TUGBA_SABAH\source\repos\P1\P1\obj\Debug\net5.0\MarketP.csproj.AssemblyReference.cache
+C:\Users\303TUGBA_SABAH\source\repos\P1\P1\obj\Debug\net5.0\MarketP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303TUGBA_SABAH\source\repos\P1\P1\obj\Debug\net5.0\MarketP.AssemblyInfoInputs.cache
+C:\Users\303TUGBA_SABAH\source\repos\P1\P1\obj\Debug\net5.0\MarketP.AssemblyInfo.cs
+C:\Users\303TUGBA_SABAH\source\repos\P1\P1\obj\Debug\net5.0\MarketP.csproj.CoreCompileInputs.cache
+C:\Users\303TUGBA_SABAH\source\repos\P1\P1\obj\Debug\net5.0\MarketP.dll
+C:\Users\303TUGBA_SABAH\source\repos\P1\P1\obj\Debug\net5.0\ref\MarketP.dll
+C:\Users\303TUGBA_SABAH\source\repos\P1\P1\obj\Debug\net5.0\MarketP.pdb
+C:\Users\303TUGBA_SABAH\source\repos\P1\P1\obj\Debug\net5.0\MarketP.genruntimeconfig.cache

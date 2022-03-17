@@ -1,0 +1,16 @@
+C:\Users\303TUGBA_SABAH\source\repos\P1\Events2\bin\Debug\net5.0\Events2.exe
+C:\Users\303TUGBA_SABAH\source\repos\P1\Events2\bin\Debug\net5.0\Events2.deps.json
+C:\Users\303TUGBA_SABAH\source\repos\P1\Events2\bin\Debug\net5.0\Events2.runtimeconfig.json
+C:\Users\303TUGBA_SABAH\source\repos\P1\Events2\bin\Debug\net5.0\Events2.runtimeconfig.dev.json
+C:\Users\303TUGBA_SABAH\source\repos\P1\Events2\bin\Debug\net5.0\Events2.dll
+C:\Users\303TUGBA_SABAH\source\repos\P1\Events2\bin\Debug\net5.0\ref\Events2.dll
+C:\Users\303TUGBA_SABAH\source\repos\P1\Events2\bin\Debug\net5.0\Events2.pdb
+C:\Users\303TUGBA_SABAH\source\repos\P1\Events2\obj\Debug\net5.0\Events2.csproj.AssemblyReference.cache
+C:\Users\303TUGBA_SABAH\source\repos\P1\Events2\obj\Debug\net5.0\Events2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303TUGBA_SABAH\source\repos\P1\Events2\obj\Debug\net5.0\Events2.AssemblyInfoInputs.cache
+C:\Users\303TUGBA_SABAH\source\repos\P1\Events2\obj\Debug\net5.0\Events2.AssemblyInfo.cs
+C:\Users\303TUGBA_SABAH\source\repos\P1\Events2\obj\Debug\net5.0\Events2.csproj.CoreCompileInputs.cache
+C:\Users\303TUGBA_SABAH\source\repos\P1\Events2\obj\Debug\net5.0\Events2.dll
+C:\Users\303TUGBA_SABAH\source\repos\P1\Events2\obj\Debug\net5.0\ref\Events2.dll
+C:\Users\303TUGBA_SABAH\source\repos\P1\Events2\obj\Debug\net5.0\Events2.pdb
+C:\Users\303TUGBA_SABAH\source\repos\P1\Events2\obj\Debug\net5.0\Events2.genruntimeconfig.cache

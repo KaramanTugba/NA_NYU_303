@@ -1,0 +1,16 @@
+C:\Users\303TUGBA_SABAH\source\repos\LinQ\6-ExtensionMethods\bin\Debug\net5.0\6-ExtensionMethods.exe
+C:\Users\303TUGBA_SABAH\source\repos\LinQ\6-ExtensionMethods\bin\Debug\net5.0\6-ExtensionMethods.deps.json
+C:\Users\303TUGBA_SABAH\source\repos\LinQ\6-ExtensionMethods\bin\Debug\net5.0\6-ExtensionMethods.runtimeconfig.json
+C:\Users\303TUGBA_SABAH\source\repos\LinQ\6-ExtensionMethods\bin\Debug\net5.0\6-ExtensionMethods.runtimeconfig.dev.json
+C:\Users\303TUGBA_SABAH\source\repos\LinQ\6-ExtensionMethods\bin\Debug\net5.0\6-ExtensionMethods.dll
+C:\Users\303TUGBA_SABAH\source\repos\LinQ\6-ExtensionMethods\bin\Debug\net5.0\ref\6-ExtensionMethods.dll
+C:\Users\303TUGBA_SABAH\source\repos\LinQ\6-ExtensionMethods\bin\Debug\net5.0\6-ExtensionMethods.pdb
+C:\Users\303TUGBA_SABAH\source\repos\LinQ\6-ExtensionMethods\obj\Debug\net5.0\6-ExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\303TUGBA_SABAH\source\repos\LinQ\6-ExtensionMethods\obj\Debug\net5.0\6-ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303TUGBA_SABAH\source\repos\LinQ\6-ExtensionMethods\obj\Debug\net5.0\6-ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\303TUGBA_SABAH\source\repos\LinQ\6-ExtensionMethods\obj\Debug\net5.0\6-ExtensionMethods.AssemblyInfo.cs
+C:\Users\303TUGBA_SABAH\source\repos\LinQ\6-ExtensionMethods\obj\Debug\net5.0\6-ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\303TUGBA_SABAH\source\repos\LinQ\6-ExtensionMethods\obj\Debug\net5.0\6-ExtensionMethods.dll
+C:\Users\303TUGBA_SABAH\source\repos\LinQ\6-ExtensionMethods\obj\Debug\net5.0\ref\6-ExtensionMethods.dll
+C:\Users\303TUGBA_SABAH\source\repos\LinQ\6-ExtensionMethods\obj\Debug\net5.0\6-ExtensionMethods.pdb
+C:\Users\303TUGBA_SABAH\source\repos\LinQ\6-ExtensionMethods\obj\Debug\net5.0\6-ExtensionMethods.genruntimeconfig.cache

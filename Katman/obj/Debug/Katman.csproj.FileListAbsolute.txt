@@ -1,0 +1,14 @@
+C:\Users\303TUGBA_SABAH\source\repos\Katman\bin\Debug\Katman.exe.config
+C:\Users\303TUGBA_SABAH\source\repos\Katman\bin\Debug\Katman.exe
+C:\Users\303TUGBA_SABAH\source\repos\Katman\bin\Debug\Katman.pdb
+C:\Users\303TUGBA_SABAH\source\repos\Katman\obj\Debug\Katman.csproj.AssemblyReference.cache
+C:\Users\303TUGBA_SABAH\source\repos\Katman\obj\Debug\Katman.csproj.CoreCompileInputs.cache
+C:\Users\303TUGBA_SABAH\source\repos\Katman\obj\Debug\Katman.exe
+C:\Users\303TUGBA_SABAH\source\repos\Katman\obj\Debug\Katman.pdb
+C:\Users\303TUGBA_SABAH\source\repos\Katman\bin\Debug\BLL.dll
+C:\Users\303TUGBA_SABAH\source\repos\Katman\bin\Debug\Model.dll
+C:\Users\303TUGBA_SABAH\source\repos\Katman\bin\Debug\DAL.dll
+C:\Users\303TUGBA_SABAH\source\repos\Katman\bin\Debug\BLL.pdb
+C:\Users\303TUGBA_SABAH\source\repos\Katman\bin\Debug\Model.pdb
+C:\Users\303TUGBA_SABAH\source\repos\Katman\bin\Debug\DAL.pdb
+C:\Users\303TUGBA_SABAH\source\repos\Katman\obj\Debug\Katman.csproj.CopyComplete

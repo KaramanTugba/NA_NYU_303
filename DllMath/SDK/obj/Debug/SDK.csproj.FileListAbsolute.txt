@@ -1,0 +1,6 @@
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\SDK\bin\Debug\SDK.dll
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\SDK\bin\Debug\SDK.pdb
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\SDK\obj\Debug\SDK.csproj.AssemblyReference.cache
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\SDK\obj\Debug\SDK.csproj.CoreCompileInputs.cache
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\SDK\obj\Debug\SDK.dll
+C:\Users\303TUGBA_SABAH\source\repos\DllMath\SDK\obj\Debug\SDK.pdb

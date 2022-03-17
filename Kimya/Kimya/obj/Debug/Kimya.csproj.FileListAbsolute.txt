@@ -1,0 +1,6 @@
+C:\Users\303TUGBA_SABAH\source\repos\Kimya\Kimya\bin\Debug\Kimya.dll
+C:\Users\303TUGBA_SABAH\source\repos\Kimya\Kimya\bin\Debug\Kimya.pdb
+C:\Users\303TUGBA_SABAH\source\repos\Kimya\Kimya\obj\Debug\Kimya.csproj.AssemblyReference.cache
+C:\Users\303TUGBA_SABAH\source\repos\Kimya\Kimya\obj\Debug\Kimya.csproj.CoreCompileInputs.cache
+C:\Users\303TUGBA_SABAH\source\repos\Kimya\Kimya\obj\Debug\Kimya.dll
+C:\Users\303TUGBA_SABAH\source\repos\Kimya\Kimya\obj\Debug\Kimya.pdb

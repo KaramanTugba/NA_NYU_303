@@ -1,0 +1,15 @@
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\EF_CF_MF\bin\Debug\EF_CF_MF.exe.config
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\EF_CF_MF\bin\Debug\EF_CF_MF.exe
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\EF_CF_MF\bin\Debug\EF_CF_MF.pdb
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\EF_CF_MF\bin\Debug\EntityFramework.dll
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\EF_CF_MF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\EF_CF_MF\bin\Debug\EntityFramework.xml
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\EF_CF_MF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\EF_CF_MF\obj\Debug\EF_CF_MF.csproj.AssemblyReference.cache
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\EF_CF_MF\obj\Debug\EF_CF_MF.Form1.resources
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\EF_CF_MF\obj\Debug\EF_CF_MF.Properties.Resources.resources
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\EF_CF_MF\obj\Debug\EF_CF_MF.csproj.GenerateResource.cache
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\EF_CF_MF\obj\Debug\EF_CF_MF.csproj.CoreCompileInputs.cache
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\EF_CF_MF\obj\Debug\EF_CF_MF.csproj.CopyComplete
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\EF_CF_MF\obj\Debug\EF_CF_MF.exe
+C:\Users\303TUGBA_SABAH\source\repos\EF_DF\EF_CF_MF\obj\Debug\EF_CF_MF.pdb
